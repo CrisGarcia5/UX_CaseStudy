@@ -1,5 +1,5 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Fast Food Experience) 
 
 * [Guiones de prácticas](GuionesPracticas/)
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
@@ -65,7 +65,9 @@ Miembros y nombre del equipo:
 -----
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-
+El presente Plan de Investigación UX tiene como objetivo llevar a cabo el análisis de la experiencia de usuario en plataformas digitales relacionadas con el sector conocido como fast food gourmet, tomando como caso principal la web de Goiko, una empresa nacional de cómida rápida especializada en hamburguesas. Este estudio se desarrolla en el contexto del crecimiento del consumo digital y del turismo urbano, donde los usuarios utilizan diariamente interfaces web para todo tipo de consultas como consultar la carta, localizar establecimientos y realizar pedidos de manera rápida y eficiente.
+>>>
+>>> La metodología que se plantea combina 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
