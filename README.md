@@ -66,8 +66,12 @@ Miembros y nombre del equipo:
 
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 El presente Plan de Investigación UX tiene como objetivo llevar a cabo el análisis de la experiencia de usuario en plataformas digitales relacionadas con el sector conocido como fast food gourmet, tomando como caso principal la web de Goiko, una empresa nacional de cómida rápida especializada en hamburguesas. Este estudio se desarrolla en el contexto del crecimiento del consumo digital y del turismo urbano, donde los usuarios utilizan diariamente interfaces web para todo tipo de consultas como consultar la carta, localizar establecimientos y realizar pedidos de manera rápida y eficiente.
->>>
->>> La metodología que se plantea combina 
+
+La metodología que se plantea combina técnicas de desk research, análisis comparativo con otras empresas competidoras del mismo sector y evaluación heurística basada en principios de usabilidad. Asimismo, se propone una selección de usuarios representativos mediante la definición de dos perfiles principales: adultos relativamente jóvenes con alta competencia digital y experiencia en pedidos online, y usuarios ocasionales o turistas que requieren de información clara antes de decidir su visita a uno de estos tipos de locales. Realizar esta segmentación permite analizar diferentes comportamientos, necesidades y expectativas durante la interacción con la interfaz.
+
+El objetivo final del plan de investigación es identificar posibles problemas de navegación, de organización de contenidos y la visibilidad de las acciones principales, con el fin de proponer recomendaciones que puedan mejorar tanto la eficiencia como la accesibilidad y satisfacción del usuario.
+
+Ver documentación completa 👉 : enlace 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
