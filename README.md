@@ -58,16 +58,22 @@ El objetivo final del plan de investigación es identificar posibles problemas d
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+En este análisis, se han comparado tres modelos de negocio completamente diferentes dentro del ecosistema de fast food gourmet, evaluando tanto su modelo de negocio, como su tecnología y usabilidad, además de sus puntos fuertes o débiles.
+**🟣 Goiko (caso de estudio principal):** referente del sector gourmet, es considerada una cadena ya consolidada en el mercado que dispone tanto de locales físicos como de una plataforma digital que permite llevar a cabo la gestión de reservas complejas y una elección personalizada y detallada de pedidos para la función de delivery. Destaca por sus hamburguesas de autor y fuerte presencia en redes sociales.
+**🟣 Vicio (referente digital):** representa el modelo nativo digital con una web ultra optimizada, centrada en la conversión rápida y un diseño visual y minimalista que elimina ampliamente cualquier tipo de fricción durante el proceso del pedido. Ha revolucionado el sector con una experiencia de usuario digital impecable y una comunicación agresiva.
+**🟣 La Locura (competidor local):** es una hamburguesería local de éxito en Granada, tiene un modelo basado en la autenticidad del producto que sirve y, aunque su infraestructura digital depende de terceros y de su gran labor en redes sociales, se ha ganado popularidad por su producto "artesanal".
+
+Sin duda, el ganador en términos de UX (Experiencia de Usuario) es Vicio debido a su reducción de fricción al mínimo, permitiendo lograr realizar un pedido en segundos mientras el usuario disfruta de una estética impecable. Aunque Goiko puede ser el más completo funcionalmente (ya que Vicio no ofrece servicio de reservas), su interfaz es excesivamente densa y puede llegar a fustrar a usuarios con prisa. La Locura es la mejor opción a nivel de producto local, pero su falta de desarrollo tecnológico conlleva una pérdida de competitividad frente a otras grandes plataformas.
 
 ### 📊 Tabla Comparativa de Competidores
 
-| Características | **GOIKO** (Caso Estudio) | **VICIO** | **LA LOCURA** |
+| Características | **GOIKO** (Caso de Estudio) | **VICIO** | **LA LOCURA** |
 | :--- | :--- | :--- | :--- |
-| **Modelo de Negocio** | [cite_start]Físico + Online + Reservas  | [cite_start]Nativo Digital / Delivery  | [cite_start]Local Físico / Artesanal  |
-| **Tecnología** | [cite_start]Web compleja (SevenRooms)  | [cite_start]Web App Optimizada  | [cite_start]Redes Sociales / Terceros  |
-| **Puntos Fuertes** | [cite_start]Personalización y Marca  | [cite_start]UX/UI Minimalista y Rapidez  | [cite_start]Autenticidad Local  |
-| **Debilidades** | [cite_start]Alta Carga Cognitiva  | [cite_start]Sin Reservas Físicas  | [cite_start]Dependencia Tecnológica  |
+| **Modelo de Negocio** | Local físico + Online/Delivery + Reservas  | Nativo Digital / Delivery  | Local Físico  |
+| **Tecnología** | Web compleja con servicio de reservas  | Web Optimizada y minimalista  | Redes Sociales / Terceros  |
+| **Precios/Necesidades** | [Precio medio-alto.Fidelización sólida  | Precio alto. Enfoque en exclusividad  | Precio competitivo. Enfoque en cercanía  |
+| **Puntos Fuertes** | [Personalización y Marca  | Mejor UX/UI Minimalista y Rapidez  | Autenticidad y apoyo del púlico local  |
+| **Debilidades** | Alta Carga Cognitiva, Interfaz saturada  | Sin Reservas Físicas  | Dependencia Tecnológica  |
 | **Nivel de UX** | ⭐⭐⭐ (Media) | ⭐⭐⭐⭐⭐ (Excelente) | ⭐⭐ (Básica) |
 
 
