@@ -72,7 +72,7 @@ La metodología que se plantea combina técnicas de desk research, análisis com
 
 El objetivo final del plan de investigación es identificar posibles problemas de navegación, de organización de contenidos y la visibilidad de las acciones principales, con el fin de proponer recomendaciones que puedan mejorar tanto la eficiencia como la accesibilidad y satisfacción del usuario.
 
-[📄 Ver User Research completo](./P1/UserResearchPlan.md)
+[📄 Ver User Research completo](./P1/UserResearchPlan.jpg)
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
