@@ -39,7 +39,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  Cristina García Gázquez     :octocat:     
+ * :bust_in_silhouette:  Cristina García Gázquez     :octocat:
+ * Nombre del equipo: DIU3_GCC    
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -57,14 +58,9 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.
 
 El presente Plan de Investigación UX tiene como objetivo llevar a cabo el análisis de la experiencia de usuario en plataformas digitales relacionadas con el sector conocido como fast food gourmet, tomando como caso principal la web de Goiko, una empresa nacional de cómida rápida especializada en hamburguesas. Este estudio se desarrolla en el contexto del crecimiento del consumo digital y del turismo urbano, donde los usuarios utilizan diariamente interfaces web para todo tipo de consultas como consultar la carta, localizar establecimientos y realizar pedidos de manera rápida y eficiente.
 
@@ -85,7 +81,9 @@ El objetivo final del plan de investigación es identificar posibles problemas d
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+>>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
+>>> **Perfil 1: Javier Prieto (estudiante en apuros):** estudiante de la Universidad de Granada, familiarizado con la tecnología, con alta carga de estrés por exámenes y necesita realizar un pedido de comida con mucha prisa.
+>>> ![Perfil 1](./P1/Persona 1.png)
 
 
 ### 1.d User Journey Map
