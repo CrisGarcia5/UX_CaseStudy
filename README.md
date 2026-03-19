@@ -11,7 +11,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Fast Food Experience)
 ![Método UX](img/caseStudy.png) 
 -----
 
-Grupo: DIU3_CGG.  Curso: 2025/26 
+Grupo: DIU3.cgg.  Curso: 2025/26 
 
 Nombre del Proyecto: 
 
@@ -27,7 +27,7 @@ Logotipo:
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Cristina García Gázquez     :octocat:
- * Nombre del equipo: DIU3_GCC    
+ * Nombre del equipo: DIU3.cgg    
 ----- 
 
 <br>
