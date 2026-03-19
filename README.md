@@ -83,7 +83,7 @@ El objetivo final del plan de investigación es identificar posibles problemas d
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
 >>> **Perfil 1: Javier Prieto (estudiante en apuros):** estudiante de la Universidad de Granada, familiarizado con la tecnología, con alta carga de estrés por exámenes y necesita realizar un pedido de comida con mucha prisa.
->>> ![Perfil 1](./P1/Persona 1.png)
+>>> ![Perfil 1](./P1/Persona1.png)
 
 
 ### 1.d User Journey Map
