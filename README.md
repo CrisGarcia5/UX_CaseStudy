@@ -89,14 +89,14 @@ Para profundizar en la usabilidad de Goiko, se han presentado dos escenarios que
  Refleja una situación de gran presión del usuario. Es una experiencia extremadamente común en las ciudades que son universitarias: el cliente necesita comer bien, de calidad y rápidamente sin interrumpir su flujo de trabajo o estudio.
  En este caso, la interfaz se convierte en un herramienta básicamente funcional. Luego, cualquier retraso en la carga de imágenes o una complejidad excesiva en la personalización y elección de ingredientes de la hamburguesa se percibe como una barrera crítica que termina provocando que el usuario abandone la página web y vaya en busca de una alternativa más ágil.
 
-🗺️ ![Journey Map 1](./P1/UserJourneyMap1.png)
+🗺️ [Enlace directo a Journey Map 1](./P1/UserJourneyMap1.png)
 
 **Journey Map 2 (caso Laura): la planificación de la experiencia social**
 
 Este escenario representa el uso de una web como fuente de confianza. Es el comportamiento típico de una persona que realiza la labor de "organizadora" que busca no arriesgar en la elección de un local para una cena de grupo. Aquí la experiencia no termina en la web, sino que la web es el puente hacia el local físico.
 Es un caso muy habitual, sobre todo, en el sector del turismo y del ocio granadino. La transparencia informativa en cuanto a ingredientes, alérgenos, precios, disponibilidad de mesas... es más importante en este escenario que la rapidez. La web debe actuar como un catálogo fiable y un eficiente gestor de reservas.
 
-🗺️ ![Journey Map 2](./P1/UserJourneyMap2.png)
+🗺️ [Enlace directo a Journey Map 2](./P1/UserJourneyMap2.png)
 
 Ambos casos demuestran que una buena interfaz de usuario debe siempre ser flexible, es decir, debe ser capaz de ofrecer una vía rápida para el típico usuario estresado como Javier y una vía informativa y segura para un tipo de usuario planificador y organizado como Laura. Si la web solo cumple uno de estos roles, está perdiendo la mitad de su potencial en el mercado competitivo.
 
