@@ -27,7 +27,7 @@ La investigación se plantea para tratar de evaluar la calidad de la navegación
 Los objetivos del estudio se centrarán en analizar la facilidad de uso de la plataforma y medir la eficiencia en la realización de las tareas más importantes y básicas. Para ello, establecemos los siguientes indicadores:
 
 | **Objetivo** | **KPI** |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: |
 | Encontrar un plato de la carta | Tiempo de tarea |
 | Localizar información de un local | Tasa de éxito |
 | Iniciar un pedido online | Número de errores | 
