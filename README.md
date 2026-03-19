@@ -41,9 +41,6 @@ Logotipo:
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Cristina García Gázquez     :octocat:
  * Nombre del equipo: DIU3_GCC    
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
 
 <br>
@@ -80,11 +77,17 @@ El objetivo final del plan de investigación es identificar posibles problemas d
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
+**Perfil 1: Javier Prieto (estudiante en apuros):** estudiante de la Universidad de Granada, familiarizado con la tecnología, con alta carga de estrés por exámenes y necesita realizar un pedido de comida con mucha prisa.
+ ![Perfil 1](./P1/Persona1.png)
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
->>> **Perfil 1: Javier Prieto (estudiante en apuros):** estudiante de la Universidad de Granada, familiarizado con la tecnología, con alta carga de estrés por exámenes y necesita realizar un pedido de comida con mucha prisa.
->>> ![Perfil 1](./P1/Persona1.png)
 
+**Justificación del perfil 1:** se ha seleccionado este perfil para evaluar la usabilidad móvil bajo presión. Es el conocido "test de estrés" de la web: si un usuario con prisa no puede pedir en menos de 2 minutos, la interfaz ha fallado. Representa al sector de usuarios jóvenes que sostienen el volumen de ventas diario.
+
+**Perfil 2: Laura Parra (organizadora de planes):** profesora de un instituto de secundaria en Granada, profesional y detallista. Le encanta hacer planes con amigos, disfrutar y organizar para ir a los mejores sitios.
+ ![Perfil 2](./P1/Persona2.png)
+
+**Justificación del perfil 2:** se ha seleccionado este perfil ya que permite analizar la arquitectura de la información y el sistema de reservas. Evaluamos si la web es capaz de transmitir confianza a un usuario que no solo pide o reserva comida, si no que vende la experiencia a terceros. Es clave para el posicionamiento clave de Goiko como una opción en la ciudad de Granada.
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
