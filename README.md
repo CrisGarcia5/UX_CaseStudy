@@ -80,8 +80,6 @@ El objetivo final del plan de investigación es identificar posibles problemas d
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
 Para profundizar en la usabilidad de Goiko, se han presentado dos escenarios que representan los extremos de los comportamientos de los consumidores actuales. Estos escenarios no solo son habituales, sino que pueden llegar a definir el éxito o fracaso de una plataforma web de fast food gourmet en un entorno competitivo como la ciudad de Granada. 
 
 **Journey Map 1 (caso Javier): la urgencia del pedido individual**
