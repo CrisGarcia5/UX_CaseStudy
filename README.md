@@ -18,12 +18,6 @@ Actualizado: 14/01/2026
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
 Grupo: DIU3_CGG.  Curso: 2025/26 
 
 Nombre del Proyecto: 
@@ -79,13 +73,13 @@ El objetivo final del plan de investigación es identificar posibles problemas d
 -----
 
 **Perfil 1: Javier Prieto (estudiante en apuros) 👨‍💻:** estudiante de la Universidad de Granada, familiarizado con la tecnología, con alta carga de estrés por exámenes y necesita realizar un pedido de comida con mucha prisa.
- ![Perfil 1](./P1/Persona1.png)
+👤 ![Perfil 1](./P1/Persona1.png)
 
 
 **Justificación del perfil 1:** se ha seleccionado este perfil para evaluar la usabilidad móvil bajo presión. Es el conocido "test de estrés" de la web: si un usuario con prisa no puede pedir en menos de 2 minutos, la interfaz ha fallado. Representa al sector de usuarios jóvenes que sostienen el volumen de ventas diario.
 
 **Perfil 2: Laura Parra (organizadora de planes) 👩‍🏫:** profesora de un instituto de secundaria en Granada, profesional y detallista. Le encanta hacer planes con amigos, disfrutar y organizar para ir a los mejores sitios.
- ![Perfil 2](./P1/Persona2.png)
+👤 ![Perfil 2](./P1/Persona2.png)
 
 **Justificación del perfil 2:** se ha seleccionado este perfil ya que permite analizar la arquitectura de la información y el sistema de reservas. Evaluamos si la web es capaz de transmitir confianza a un usuario que no solo pide o reserva comida, si no que vende la experiencia a terceros. Es clave para el posicionamiento clave de Goiko como una opción en la ciudad de Granada.
 
@@ -94,6 +88,24 @@ El objetivo final del plan de investigación es identificar posibles problemas d
 ----
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+
+Para profundizar en la usabilidad de Goiko, se han presentado dos escenarios que representan los extremos de los comportamientos de los consumidores actuales. Estos escenarios no solo son habituales, sino que pueden llegar a definir el éxito o fracaso de una plataforma web de fast food gourmet en un entorno competitivo como la ciudad de Granada. 
+
+**Journey Map 1 (caso Javier): la urgencia del pedido individual**
+
+ Refleja una situación de gran presión del usuario. Es una experiencia extremadamente común en las ciudades que son universitarias: el cliente necesita comer bien, de calidad y rápidamente sin interrumpir su flujo de trabajo o estudio.
+ En este caso, la interfaz se convierte en un herramienta básicamente funcional. Luego, cualquier retraso en la carga de imágenes o una complejidad excesiva en la personalización y elección de ingredientes de la hamburguesa se percibe como una barrera crítica que termina provocando que el usuario abandone la página web y vaya en busca de una alternativa más ágil.
+
+🗺️ ![Journey Map 1](./P1/Persona2.png)
+
+**Journey Map 2 (caso Laura): la planificación de la experiencia social**
+
+Este escenario representa el uso de una web como fuente de confianza. Es el comportamiento típico de una persona que realiza la labor de "organizadora" que busca no arriesgar en la elección de un local para una cena de grupo. Aquí la experiencia no termina en la web, sino que la web es el puente hacia el local físico.
+Es un caso muy habitual, sobre todo, en el sector del turismo y del ocio granadino. La transparencia informativa en cuanto a ingredientes, alérgenos, precios, disponibilidad de mesas... es más importante en este escenario que la rapidez. La web debe actuar como un catálogo fiable y un eficiente gestor de reservas.
+
+🗺️ ![Journey Map 2](./P1/Persona2.png)
+
+Ambos casos demuestran que una buena interfaz de usuario debe siempre ser flexible, es decir, debe ser capaz de ofrecer una vía rápida para el típico usuario estresado como Javier y una vía informativa y segura para un tipo de usuario planificador y organizado como Laura. Si la web solo cumple uno de estos roles, está perdiendo la mitad de su potencial en el mercado competitivo.
 
 
 ### 1.e Usability Review
