@@ -60,6 +60,16 @@ El objetivo final del plan de investigación es identificar posibles problemas d
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
+### 📊 Tabla Comparativa de Competidores
+
+| Características | **GOIKO** (Caso Estudio) | **VICIO** | **LA LOCURA** |
+| :--- | :--- | :--- | :--- |
+| **Modelo de Negocio** | [cite_start]Físico + Online + Reservas  | [cite_start]Nativo Digital / Delivery  | [cite_start]Local Físico / Artesanal  |
+| **Tecnología** | [cite_start]Web compleja (SevenRooms)  | [cite_start]Web App Optimizada  | [cite_start]Redes Sociales / Terceros  |
+| **Puntos Fuertes** | [cite_start]Personalización y Marca  | [cite_start]UX/UI Minimalista y Rapidez  | [cite_start]Autenticidad Local  |
+| **Debilidades** | [cite_start]Alta Carga Cognitiva  | [cite_start]Sin Reservas Físicas  | [cite_start]Dependencia Tecnológica  |
+| **Nivel de UX** | ⭐⭐⭐ (Media) | ⭐⭐⭐⭐⭐ (Excelente) | ⭐⭐ (Básica) |
+
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
