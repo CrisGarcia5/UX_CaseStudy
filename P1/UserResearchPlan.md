@@ -18,10 +18,20 @@ Para que sea profesional, tu plan debe responder a estas secciones:
 #### 1. Antecedentes y Objetivos (The "Why")
 
 - **Contexto:** ¿Por qué estamos evaluando estos prototipos ahora? (Ej: "Validar la nueva interfaz de GazeMapping antes de pasar a desarrollo").
+El crecimiento del consumo digital y de la influencia del turismo urbano han causado que, cada vez más usuarios decidan acceder a plataformas online con el fin de decidir dónde ir a comer o qué plato de la carta escoger.
 
+La investigación se plantea para tratar de evaluar la calidad de la navegación, identificar posibles problemas o dificultades en tareas que son habituales y comparar diferentes enfoques de diseño dentro del sector conocido como fast food digital.
 
 
 - **Objetivos de investigación:** Deben ser específicos. No digas "ver si gusta"; di "evaluar si la ubicación del menú lateral permite completar una reserva en menos de 30 segundos".
+Los objetivos del estudio se centrarán en analizar la facilidad de uso de la plataforma y medir la eficiencia en la realización de las tareas más importantes y básicas. Para ello, establecemos los siguientes indicadores:
+| **Objetivo** | **KPI** |
+| :--- | :---: | :---: | :---: |
+| Encontrar un plato de la carta | Tiempo de tarea |
+| Localizar información de un local | Tasa de éxito |
+| Iniciar un pedido online | Número de errores | 
+| Navegar correctamente en dispositivo móvil | Número de clics | 
+| Evaluar la satisfacción del usuario | Su puntuación | 
 
 - **Experiencia del equipo / justificación**
 
