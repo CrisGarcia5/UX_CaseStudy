@@ -141,6 +141,7 @@ El objetivo de esta fase es revisar y evaluar, de forma objetiva, la usabilidad 
    **🩹 Puntos débiles detectados:** en cuanto al feedback del sistema, se detecta una falta de microinteracciones más evidentes al añadir productos, lo que genera incertidumbre al usuario. La gran cantidad de opciones al configurar los ingredientes de una hamburguesa aumenta la carga cognitiva y el riesgo de que se produzca un error accidental.
 
 ### 1.f Briefing 
+![Método UX](img/usabilityReview.png) 
 ----
 
 El presente estudio analiza la experiencia de usuario (UX) de la página web de Goiko, cadena perteneciente al sector fast food gourmet, en un contexto marcado por el crecimiento del consumo digital y la necesidad de creación de unas interfaces que sean rápidas, claras y eficientes. A través de una metodología basada en un análisis competitivo con otros competidores del mismo sector, desk research y evaluación heurística, se ha logrado identificar tanto las fortalezas como las debilidades y áreas de mejora clave en la plataforma.
