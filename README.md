@@ -126,19 +126,19 @@ Ambos casos demuestran que una buena interfaz de usuario debe siempre ser flexib
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
+El objetivo de esta fase es revisar y evaluar, de forma objetiva, la usabilidad de la plataforma de Goiko mediante un checklist de verificación heurística. El análisis se ha centrado en aspectos como la prevención de errores, satisfacción del usuario, características y funcionalidades, entre otras.
 
 **Enlace directo al documento:** 🔎[Acceder a la Usability Review completa de Goiko](./P1/UsabilityReviewGoiko.pdf)
 
 **URL:** <https://www.goiko.com/es/>
 
-**Valoración numérica obtenida:** 79
+**Valoración numérica obtenida:** 79/100
 
-**Comentario sobre la revisión:**
+**Comentario sobre la revisión:** La página web de Goiko ha obtenido una puntuación total de 79/100, lo que refleja una experiencia de usuario sólida y profesional, aunque con cierto margen de optimización.
 
-   **🌟 Puntos fuertes detectados:**
+   **🌟 Puntos fuertes detectados:** destaca su consistencia, tanto visual como terminológica, es impecable. Además, la marca mantiene en cada detalle su identidad y tono en todo el flujo de navegación. La legibilidad y el contraste con excelentes, garantizando un escaneado rápido del menú. Permite una experiencia fluida en diversas configuraciones de navegador y dispositivos. La ayuda colocada en el footer obliga al usuario a interrumpir el flujo de pedido para resolver dudas.
    
-   **🩹 Puntos débiles detectados:**
+   **🩹 Puntos débiles detectados:** en cuanto al feedback del sistema, se detecta una falta de microinteracciones más evidentes al añadir productos, lo que genera incertidumbre al usuario. La gran cantidad de opciones al configurar los ingredientes de una hamburguesa aumenta la carga cognitiva y el riesgo de que se produzca un error accidental.
 
 <br>
 
