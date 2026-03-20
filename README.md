@@ -128,15 +128,17 @@ Ambos casos demuestran que una buena interfaz de usuario debe siempre ser flexib
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 
-Enlace directo al documento: 🔎[Usability Review de Goiko](./P1/UsabilityReviewGoiko.pdf)
+**Enlace directo al documento:** 🔎[Usability Review de Goiko](./P1/UsabilityReviewGoiko.pdf)
 
-**URL:**
+**URL:** <https://www.goiko.com/es/>
 
-**Valoración numérica obtenida:**
+**Valoración numérica obtenida:** 79
 
 **Comentario sobre la revisión:**
-     **Puntos fuertes dectectados:**
-     **Puntos débiles detectados:**
+
+   **🌟 Puntos fuertes detectados:**
+   
+   **🩹 Puntos débiles detectados:**
 
 <br>
 
