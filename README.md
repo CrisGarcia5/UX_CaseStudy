@@ -130,8 +130,13 @@ Ambos casos demuestran que una buena interfaz de usuario debe siempre ser flexib
 
 Enlace directo al documento: 🔎[Usability Review de Goiko](./P1/UsabilityReviewGoiko.pdf)
 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+**URL:**
+
+**Valoración numérica obtenida:**
+
+**Comentario sobre la revisión:**
+     **Puntos fuertes dectectados:**
+     **Puntos débiles detectados:**
 
 <br>
 
