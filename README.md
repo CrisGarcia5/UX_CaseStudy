@@ -140,7 +140,7 @@ El objetivo de esta fase es revisar y evaluar, de forma objetiva, la usabilidad 
    
    **🩹 Puntos débiles detectados:** en cuanto al feedback del sistema, se detecta una falta de microinteracciones más evidentes al añadir productos, lo que genera incertidumbre al usuario. La gran cantidad de opciones al configurar los ingredientes de una hamburguesa aumenta la carga cognitiva y el riesgo de que se produzca un error accidental.
 
-### 1.f Briefing
+### 1.f ![](img/img_briefing.png)
 ![Método UX](img/usabilityReview.png) 
 ----
 
