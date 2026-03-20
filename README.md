@@ -140,6 +140,18 @@ El objetivo de esta fase es revisar y evaluar, de forma objetiva, la usabilidad 
    
    **🩹 Puntos débiles detectados:** en cuanto al feedback del sistema, se detecta una falta de microinteracciones más evidentes al añadir productos, lo que genera incertidumbre al usuario. La gran cantidad de opciones al configurar los ingredientes de una hamburguesa aumenta la carga cognitiva y el riesgo de que se produzca un error accidental.
 
+### 1.f Briefing
+![Método UX](img/usabilityReview.png) 
+----
+
+El presente estudio analiza la experiencia de usuario (UX) de la página web de Goiko, cadena perteneciente al sector fast food gourmet, en un contexto marcado por el crecimiento del consumo digital y la necesidad de creación de unas interfaces que sean rápidas, claras y eficientes. A través de una metodología basada en un análisis competitivo con otros competidores del mismo sector, desk research y evaluación heurística, se ha logrado identificar tanto las fortalezas como las debilidades y áreas de mejora clave en la plataforma.
+
+Goiko destaca por una identidad de marca sólida, consistencia visual y una propuesta funcional muy completa capaz de integrar realización de pedidos, gestión de reservas y consulta de información. Sin embargo, es cierto que frente a competidores digitales como Vicio, sufre de mayor carga cognitiva y una estructura de navegación más densa, que impacta negativamente en escenarios de uso con urgencia o prisa.
+
+El análisis usando perfiles de usuario revela dos necesidades principales: por un lado, se encuentran usuarios como Javier, que priorizan la rapidez y la eficiencia en la realización del pedido; por otro lado, perfiles como el de Laura, que buscan claridad, confianza, seguridad y capacidad de comparación para la toma de decisiones. En ambos casos, encontramos fricciones relacionadas con la organización de contenidos, visibilidad de acciones clave y falta de feedback inmmediato en ciertas interacciones.
+
+La evaluación heurística (79/100) confirma que, aunque la experiencia es sólida, existe un margen de mejora en la simplificación de procesos, reducción de opciones innecesarias y optimización del flujo del móvil. Se concluye que una mayor adaptación a distintos contextos de uso dotaría a Goiko de una mejora significativa en la conversión y satisfacción del usuario.
+
 <br>
 
 ## Paso 2. UX Design  
