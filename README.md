@@ -13,9 +13,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Fast Food Experience)
 
 Grupo: DIU3.cgg.  Curso: 2025/26 
 
-Nombre del Proyecto: 
-
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Nombre del Proyecto: **Savora**
 
 Descripción: 
 
