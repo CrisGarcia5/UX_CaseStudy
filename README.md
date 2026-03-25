@@ -179,7 +179,7 @@ En el caso de **Javier**, se representa un contexto donde la prioridad es la rap
 
 Por otro lado, en el caso de **Laura**, observamos que su principal necesidad no es la rapidez, si no la claridad y seguridad en la toma de decisiones, ya que actúa como organizadora de un evento grupal. La ausencia de una visión global del menú, la dificultad para comparar opciones y la ausencia de información clara le generan inseguridad y provocan su abandono de la web.
 
-![Empathy Map -Laura-](./P2/Empathy Map Laura.jpg)
+![Empathy Map Laura](./P2/Empathy Map Laura.jpg)
 
 Estos mapas permiten identificar dos necesidades clave:
 👉 Reducción de fricción (usuarios con prisa).
