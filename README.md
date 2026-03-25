@@ -166,7 +166,26 @@ La evaluación heurística (79/100) confirma que, aunque la experiencia es sóli
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
+
+En esta fase se sintetizan los resultados obtenidos en la práctica anterior mediante herramientas de ideación como el "Empathy Mapping" y el "Feedback Capture Grid". El objetivo es identificar los principales problemas de usabilidad, las necesidades de los usuarios y oportunidades de mejora, para plantear una nueva propuesta de valor centrada en el usuario.
+
+#### Empathy Mapping
+
+A partir del análisis de los perfiles definidos (Javier y Laura), se han desarrollado dos mapas de empatía que nos permiten comprender en profundidad su comportamiento, diferenciando entre lo que ven, oyen, dicen, hacen, piensan y sienten.
+
+En el caso de **Javier**, se representa un contexto donde la prioridad es la rapidez y la eficiencia. Su comportamiento está condicionado por la urgencia, lo que provoca que cualquier fricción en el proceso suponga una barrera crítica.
+
+![Empathy Map -Javier-](./P2/Empathy Map Javier.png)
+
+Por otro lado, en el caso de **Laura**, observamos que su principal necesidad no es la rapidez, si no la claridad y seguridad en la toma de decisiones, ya que actúa como organizadora de un evento grupal. La ausencia de una visión global del menú, la dificultad para comparar opciones y la ausencia de información clara le generan inseguridad y provocan su abandono de la web.
+
+![Empathy Map -Laura-](./P2/Empathy Map Laura.jpg)
+
+Estos mapas permiten identificar dos necesidades clave:
+👉 Reducción de fricción (usuarios con prisa).
+👉 Mejora de claridad y estructura de la información (usuarios organizadores).
+
+#### Feedback Capture Grid
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
