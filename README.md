@@ -175,11 +175,15 @@ A partir del análisis de los perfiles definidos (Javier y Laura), se han desarr
 
 En el caso de **Javier**, se representa un contexto donde la prioridad es la rapidez y la eficiencia. Su comportamiento está condicionado por la urgencia, lo que provoca que cualquier fricción en el proceso suponga una barrera crítica.
 
-![Empathy Map Javier](./P2/EmpathyMapJavier.png)
+
+ ![Empathy Map Javier](./P2/EmpathyMapJavier.png)
+
 
 Por otro lado, en el caso de **Laura**, observamos que su principal necesidad no es la rapidez, si no la claridad y seguridad en la toma de decisiones, ya que actúa como organizadora de un evento grupal. La ausencia de una visión global del menú, la dificultad para comparar opciones y la ausencia de información clara le generan inseguridad y provocan su abandono de la web.
 
-![Empathy Map Laura](./P2/EmpathyMapLaura.jpg)
+
+ ![Empathy Map Laura](./P2/EmpathyMapLaura.jpg)
+
 
 Estos mapas permiten identificar dos necesidades clave:
 👉 Reducción de fricción (usuarios con prisa).
