@@ -185,14 +185,32 @@ Por otro lado, en el caso de **Laura**, observamos que su principal necesidad no
 
 
 Estos mapas permiten identificar dos necesidades clave:
+
 👉 Reducción de fricción (usuarios con prisa).
+
 👉 Mejora de claridad y estructura de la información (usuarios organizadores).
+
 
 #### Feedback Capture Grid
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
+La malla receptora de información permite organizar los hallazgos en cuatro áreas: lo que funciona, cambios (aspectos a mejorar), preguntas e ideas. Las conclusiones principales que nos aporta este análisis son:
+
+🟠 La web de Goiko destaca por su identidad visual y calidad de marca, así como por ofrecer múltiples funcionalidades (pedidos y reservas).
+
+🟠 Sin embargo, presenta problema importantes de carga cognitiva, falta de claridad y exceso de opciones, lo que dificulta la toma de decisiones. 
+
+🟠 Los usuarios plantean preguntadas relacionadas con la rapidez, la claridad de precios y la adecuación del servicio para grupos, lo que evidencia algunas carencias en la arquitectura de la información.
+
+🟠 Se identifican oportunidades (ideas) como la implementación de un modo rápido de pedido, comparadores de menús y sistemas de recomendación. 
+
+![Feedback Capture Grid](./P2/Feedback_grid.png)
+
+Un problema identificado es que la web de Goiko no se adapta a los diferentes contextos de uso de los usuarios, lo que puede generar una experiencia de usuario poco eficiente, ya que para usuarios como Javier con prisa que les urge realizar un pedido puede resultar algo compleja y para usuarios como Laura puede no resultar una web lo suficientemente clara. Todo ello causa el abandono de la web.
+
+Se podría proponer una experiencia adaptativa que logre reducir los pasos y simplifique el proceso para usuarios con prisa y que mejore la claridad, comparación y organización de la información para usuarios organizadores. De esta manera, se mejorará la experiencia de usuario aumentando la conversión y satisfacción rediseñando la experiencia web en una plataforma capaz de adaptarse al contexto de usuario, que permita elegir entre modo rápido o modo exploración y facilite la toma de deciciones mediante la comparación y recomendaciones.
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
