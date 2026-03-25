@@ -160,11 +160,6 @@ La evaluación heurística (79/100) confirma que, aunque la experiencia es sóli
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
 En esta fase se sintetizan los resultados obtenidos en la práctica anterior mediante herramientas de ideación como el "Empathy Mapping" y el "Feedback Capture Grid". El objetivo es identificar los principales problemas de usabilidad, las necesidades de los usuarios y oportunidades de mejora, para plantear una nueva propuesta de valor centrada en el usuario.
 
 #### Empathy Mapping
@@ -204,7 +199,7 @@ La malla receptora de información permite organizar los hallazgos en cuatro ár
 
 🟠 Se identifican oportunidades (ideas) como la implementación de un modo rápido de pedido, comparadores de menús y sistemas de recomendación. 
 
-![Feedback Capture Grid](./P2/Feedback_grid.png)
+![Feedback Capture Grid](./P2/FeedbackCaptureGrid.png)
 
 Un problema identificado es que la web de Goiko no se adapta a los diferentes contextos de uso de los usuarios, lo que puede generar una experiencia de usuario poco eficiente, ya que para usuarios como Javier con prisa que les urge realizar un pedido puede resultar algo compleja y para usuarios como Laura puede no resultar una web lo suficientemente clara. Todo ello causa el abandono de la web.
 
