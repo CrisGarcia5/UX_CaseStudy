@@ -158,8 +158,6 @@ La evaluación heurística (79/100) confirma que, aunque la experiencia es sóli
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
 En esta fase se sintetizan los resultados obtenidos en la práctica anterior mediante herramientas de ideación como el "Empathy Mapping" y el "Feedback Capture Grid". El objetivo es identificar los principales problemas de usabilidad, las necesidades de los usuarios y oportunidades de mejora, para plantear una nueva propuesta de valor centrada en el usuario.
 
 #### Empathy Mapping
