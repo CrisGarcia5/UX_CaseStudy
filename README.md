@@ -207,9 +207,15 @@ Se podría proponer una experiencia adaptativa que logre reducir los pasos y sim
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+#### Propuesta de valor
 
+Para definir la propuesta de valor del proyecto Savora, se ha utilizado un Scope Canvas en el que se recogen los aspectos principales del rediseño, como las necesidades de los usuarios, los objetivos del sistema, las acciones que se quieren fomentar y las métricas para evaluar su funcionamiento.
+
+Este Scope Canvas está basado en los problemas detectados, especialmente en la dificultad para entender el menú, comparar opciones y realizar pedido de forma rápida. A partir de esto, la propuesta busca ofrecer una experiencia más clara, sencilla y adaptada a distintos tipos de usuarios. 
+
+![Scope Canvas](./P2/ScopeCanvas.png)
+
+🎯 [Enlace directo al Scope Canvas](./P2/ScopeCanvas.png)
 
 
 ### 2.b User Flow (task) analysis 
