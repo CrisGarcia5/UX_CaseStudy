@@ -221,8 +221,18 @@ Este Scope Canvas está basado en los problemas detectados, especialmente en la 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
-
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+|  | **Cliente con prisa** | **Cliente comparador** | **Administrador** |
+| :--- | :--- | :--- | :--- |
+| **Acceder a la web** | Alta  | Alta  | Alta  |
+| **Ver el menú** | Media  | Alta  | Alta  |
+| **Registrarse** | Baja  | Media  | Alta  |
+| **Iniciar sesión** | Baja  | Media | Alta  |
+| **Filtrar producto** | Baja  | Media  | Alta  |
+| **Comparar opciones** | Baja  | Alta  | Media  |
+| **Ver detalle de producto** | Media | Alta | Alta |
+| **Añadir al carrito** | Alta  | Alta  | Alta  |
+| **Realizar pedido** | Alta  | Media  | Alta  |
+| **Guardar pedido** | Baja  | Media  | Alta  |
 
 
 ### 2.c IA: Sitemap + Labelling 
