@@ -242,7 +242,9 @@ En primer lugar, este User Flow sobre **realizar un pedido rápido**, permite a 
 
 🔄 [Enlace directo al User Flow para Pedido Rápido](./P2/UserFlowPedidoRapido.png)
 
+![User Flow Cliente Compara Opciones](./P2/UserFlowClienteComparador.png)
 
+🔄 [Enlace directo al User Flow para Cliente compara opciones](./P2/UserFlowClienteComparador.png)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
