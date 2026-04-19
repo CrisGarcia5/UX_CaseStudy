@@ -234,6 +234,9 @@ Este Scope Canvas está basado en los problemas detectados, especialmente en la 
 | **Realizar pedido** | Alta  | Media  | Alta  |
 | **Guardar pedido** | Baja  | Media  | Alta  |
 
+A continuación, se pueden observar los diferentes diagramas de flujo de tareas de los usuarios (User Flows) diseñados para cubrir las necesidades de nuestros usuarios principales:
+
+En primer lugar, este User Flow sobre **realizar un pedido rápido**, permite a los usuarios acceder directaemente a la oferta de productos mediantes buscadores o sección de destacados para poder así agilizar la compra. Tras seleccionar los productos que desean tomar y añadirlos al carrito, el sistema ofrece una ruta flexible donde el cliente puede elegir entre registrarse, iniciar sesión o continuar con el pago como invitado, garantizando una finalización eficiente del pedido y sin bloqueos. 
 
 ![User Flow Pedido Rápido](./P2/UserFlowPedidoRapido.png)
 
