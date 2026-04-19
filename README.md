@@ -235,6 +235,12 @@ Este Scope Canvas está basado en los problemas detectados, especialmente en la 
 | **Guardar pedido** | Baja  | Media  | Alta  |
 
 
+![User Flow Pedido Rápido](./P2/UserFlowPedidoRapido.png)
+
+🔄 [Enlace directo al User Flow para Pedido Rápido](./P2/UserFlowPedidoRapido.png)
+
+
+
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
