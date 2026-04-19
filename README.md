@@ -242,6 +242,8 @@ En primer lugar, este User Flow sobre **realizar un pedido rápido**, permite a 
 
 🔄 [Enlace directo al User Flow para Pedido Rápido](./P2/UserFlowPedidoRapido.png)
 
+Este segundo user flow trata la **comparación de opciones y decisión** y está enfocado en clientes que necesitan explorar y filtrar el menú de una manera más detallada antes de tomar su decisión final. Este flujo permite comparar distintas opciones y consultar información específica de los productos disponibles para garantizar que la selección cumpla con sus expectativas. Finalmente, una vez validada la mejor opción, el usuario puede revisar su carrito y completar el pago de forma segura.
+
 ![User Flow Cliente Compara Opciones](./P2/UserFlowClienteComparador.png)
 
 🔄 [Enlace directo al User Flow para Cliente compara opciones](./P2/UserFlowClienteComparador.png)
