@@ -183,9 +183,6 @@ Estos mapas permiten identificar dos necesidades clave:
 
 
 #### Feedback Capture Grid
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
 La malla receptora de información permite organizar los hallazgos en cuatro áreas: lo que funciona, cambios (aspectos a mejorar), preguntas e ideas. Las conclusiones principales que nos aporta este análisis son:
 
@@ -224,15 +221,18 @@ Este Scope Canvas está basado en los problemas detectados, especialmente en la 
 |  | **Cliente con prisa** | **Cliente comparador** | **Administrador** |
 | :--- | :--- | :--- | :--- |
 | **Acceder a la web** | Alta  | Alta  | Alta  |
-| **Ver el menú** | Media  | Alta  | Alta  |
+| **Ver el menú** | Media  | Alta  | Media  |
+| **Buscar producto** | Alta  | Media  | Baja  |
 | **Registrarse** | Baja  | Media  | Alta  |
 | **Iniciar sesión** | Baja  | Media | Alta  |
-| **Filtrar producto** | Baja  | Media  | Alta  |
+| **Aplicar filtros** | Baja  | Alta  | Alta  |
 | **Comparar opciones** | Baja  | Alta  | Media  |
 | **Ver detalle de producto** | Media | Alta | Alta |
 | **Añadir al carrito** | Alta  | Alta  | Alta  |
 | **Realizar pedido** | Alta  | Media  | Alta  |
+| **Añadir a favoritos** | Baja  | Alta  | Baja  |
 | **Guardar pedido** | Baja  | Media  | Alta  |
+| **Introducir datos y pagar** | Alta  | Alta  | Media  |
 
 A continuación, se pueden observar los diferentes diagramas de flujo de tareas de los usuarios (User Flows) diseñados para cubrir las necesidades de nuestros usuarios principales:
 
