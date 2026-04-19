@@ -252,7 +252,9 @@ Este segundo user flow trata la **comparación de opciones y decisión** y está
 ![Método UX](img/labelling.png) 
 ----
 
+![Sitemap](./P2/Sitemap.png)
 
+🔄 [Enlace directo al Sitemap](./P2/Sitemap.png)
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
