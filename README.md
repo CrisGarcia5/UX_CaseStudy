@@ -252,11 +252,13 @@ Este segundo user flow trata la **comparación de opciones y decisión** y está
 ![Método UX](img/labelling.png) 
 ----
 
+Para estructurar la navegación de la aplicación, se ha diseñado un sitemap que organiza las principales secciones y funcionalidades del sistema. Este diagrama permite visualizar de forma clara la jerarquía de contenidos y cómo los usuarios pueden moverse entre las distintas pantallas, teniendo en cuenta los user flows definidos previamente. Se ha planteado una estructura capaz de facilitar tanto una navegación rápida como una exploración más detallada, con el fin de lograr una adaptación a los distintos perfiles de usuario identificados. 
+
 ![Sitemap](./P2/Sitemap.png)
 
 🔄 [Enlace directo al Sitemap](./P2/Sitemap.png)
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
 Término | Significado     
 | ------------- | -------
