@@ -258,11 +258,14 @@ Para estructurar la navegación de la aplicación, se ha diseñado un sitemap qu
 
 🔄 [Enlace directo al Sitemap](./P2/Sitemap.png)
 
-una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
+  Página de inicio  | Página principal desde la que el usuario accede al resto de secciones
+  Menú  | Sección donde se muestran las hamburguesas organizadas por categorías 
+  Categorías  | Agrupación de productos según el tipo (carne, pollo, vegano, etc)  
+  Filtros  | Opciones para refinar la búsqueda (precio, ingredientes, alérgenos...) 
+  Producto  | Página de detalle de una hamburgesa concreta 
+  
 
 
 ### 2.d Wireframes
