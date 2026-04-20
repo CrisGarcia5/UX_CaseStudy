@@ -262,10 +262,27 @@ Término | Significado
 | ------------- | -------
   Página de inicio  | Página principal desde la que el usuario accede al resto de secciones
   Menú  | Sección donde se muestran las hamburguesas organizadas por categorías 
-  Categorías  | Agrupación de productos según el tipo (carne, pollo, vegano, etc)  
+  Categorías  | Agrupación de productos según el tipo (carne, pollo, vegano, etc) 
+  Todos los productos  | Listado completos de todos los productos disponibles en el menú
   Filtros  | Opciones para refinar la búsqueda (precio, ingredientes, alérgenos...) 
-  Producto  | Página de detalle de una hamburgesa concreta 
-  
+  Detalle de producto  | Página de detalle de una hamburgesa concreta 
+  Comparador  | Herramienta para comparar varias opciones antes de decidir finalmente
+  Favoritos  | Lista de productos guardados por el usuario
+  Ver carrito  | Espacio donde se almacenan los productos seleccionados antes de finalizar la compra  
+  Guardar pedido  | Función para almacenar un pedido sin finalizarlo
+  Checkout  | Proceso de compra donde se revisa el pedido y se introducen los datos personales
+  Envío  | Introducción de dirección y datos de entrega
+  Pago  | Selección del método de pago y realización del pago, si es online
+  Confirmación  | Pantalla final con el resumen del pedido realizado
+  Mi cuenta  | Área personal del usuario
+  Iniciar sesión  | Acceso a la cuenta del usuario mediante usuario y contraseña
+  Registrarse  | Creación de una nueva cuenta
+  Mis pedidos  | Historial de pedido realizados
+  Datos personales  | Información personal del usuario editable
+  Información  | Sección de soporte al usuario
+  Preguntas frecuentes  | Respuestas a dudas comunes
+  Contacto  | Canal de comunicación con la empresa
+  Sobre nosotros  | Información sobre la marca
 
 
 ### 2.d Wireframes
