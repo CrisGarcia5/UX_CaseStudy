@@ -299,10 +299,13 @@ Término | Significado
 
 ![Vista HOME móvil](./P2/VistaHomeMovil.png)
 
-
 **Vista del menú desplegable desde el móvil**
 
 ![Vista MENÚ móvil](./P2/VistaMenu.png)
+
+**Vista de con todo detalle del producto**
+
+![Vista Detalle Producto](./P2/VistaDetalleProducto.png)
 
 **Vista de inicio de sesión desde el móvil**
 
