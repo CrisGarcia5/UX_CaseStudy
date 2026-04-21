@@ -293,10 +293,11 @@ Término | Significado
 
 **Vista de inicio de sesión desde el móvil**
 
-
 ![Vista Inicio de Sesión](./P2/VistaInicioSesion.png)
 
 **Vista de registro en la página web (creación de cuenta)**
+
+![Vista de Registro de usuario](./P2/VistaRegistro.png)
 
 <br>
 
