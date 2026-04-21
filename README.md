@@ -294,6 +294,8 @@ Término | Significado
 **Vista de inicio de sesión desde el móvil**
 
 
+![Vista Inicio de Sesión](./P2/VistaInicioSesion.png)
+
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
