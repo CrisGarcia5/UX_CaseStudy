@@ -307,6 +307,10 @@ Término | Significado
 
 ![Vista Detalle Producto](./P2/VistaDetalleProducto.png)
 
+**Vista del comparador de productos**
+
+![Vista Comparador de Producto](./P2/VistaComparador.png)
+
 **Vista de inicio de sesión desde el móvil**
 
 ![Vista Inicio de Sesión](./P2/VistaInicioSesion.png)
