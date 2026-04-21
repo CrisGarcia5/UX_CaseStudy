@@ -289,7 +289,12 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+Durante esta fase se ha llevado a cabo el diseño del layout de la aplicación, tanto para entorno web como para su posible adaptación a dispositivos móviles. 
+A continuación, se indica el enlace a los bocetos realizados a mano que han permitido definir de forma rápida la disposición de los elementos y la validación de las ideas principales antes de pasar al diseño digital
+
+Los **bocetos** en papel pueden consultarse en el siguiente enlace: 
+
+Posteriormente, se han desarrollado los **wireframes Lo-Fi** mediante la herramienta **Figma**, utilizando una escala de grises y una estructura basada en un grid de 12 columnas. Seguidamente, se muestran las principales pantallas diseñadas, que representan los flujos clave del usuario.
 
 **Vista de página principal (HOME) desde el ordenador**
 
