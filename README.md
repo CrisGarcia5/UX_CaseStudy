@@ -319,6 +319,11 @@ Término | Significado
 
 ![Vista de Registro de usuario](./P2/VistaRegistro.png)
 
+**Vista del carrito (lo que hay en la cesta antes de realizar el pedido)**
+
+![Vista de la Cesta o Carrito](./P2/VistaCarrito.png)
+
+
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
