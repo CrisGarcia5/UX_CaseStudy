@@ -289,7 +289,10 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+>>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+
+**Vista de inicio de sesión desde el móvil**
+![Vista Inicio de Sesión móvil](./P2/VistaInicioSesion.png)
 
 <br>
 
