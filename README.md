@@ -295,6 +295,10 @@ Término | Significado
 
 ![Vista HOME ordenador](./P2/VistaHomeOrdenador.png)
 
+**Vista de página principal (HOME) desde el móvil**
+
+![Vista HOME móvil](./P2/VistaHomeMovil.png)
+
 **Vista de inicio de sesión desde el móvil**
 
 ![Vista Inicio de Sesión](./P2/VistaInicioSesion.png)
