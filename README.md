@@ -293,7 +293,7 @@ Término | Significado
 
 **Vista de página principal (HOME) desde el ordenador**
 
-
+![Vista HOME ordenador](./P2/VistaHomeOrdenador.png)
 
 **Vista de inicio de sesión desde el móvil**
 
