@@ -296,6 +296,8 @@ Término | Significado
 
 ![Vista Inicio de Sesión](./P2/VistaInicioSesion.png)
 
+**Vista de registro en la página web (creación de cuenta)**
+
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
