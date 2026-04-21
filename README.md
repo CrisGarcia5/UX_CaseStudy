@@ -296,35 +296,35 @@ Los **bocetos** en papel pueden consultarse en el siguiente enlace: 🗒️ [Enl
 
 Posteriormente, se han desarrollado los **wireframes Lo-Fi** mediante la herramienta **Figma**, utilizando una escala de grises y una estructura basada en un grid de 12 columnas. Seguidamente, se muestran las principales pantallas diseñadas, que representan los flujos clave del usuario.
 
-**Vista de página principal (HOME) desde el ordenador**
+**Vista de página principal (HOME) desde el ordenador:**
 
 ![Vista HOME ordenador](./P2/VistaHomeOrdenador.png)
 
-**Vista de página principal (HOME) desde el móvil**
+**Vista de página principal (HOME) desde el móvil:**
 
 ![Vista HOME móvil](./P2/VistaHomeMovil.png)
 
-**Vista del menú desplegable desde el móvil**
+**Vista del menú desplegable desde el móvil:**
 
 ![Vista MENÚ móvil](./P2/VistaMenu.png)
 
-**Vista de con todo detalle del producto**
+**Vista de con todo detalle del producto:**
 
 ![Vista Detalle Producto](./P2/VistaDetalleProducto.png)
 
-**Vista del comparador de productos**
+**Vista del comparador de productos:**
 
 ![Vista Comparador de Producto](./P2/VistaComparador.png)
 
-**Vista de inicio de sesión desde el móvil**
+**Vista de inicio de sesión desde el móvil:**
 
 ![Vista Inicio de Sesión](./P2/VistaInicioSesion.png)
 
-**Vista de registro en la página web desde el móvil (creación de cuenta)**
+**Vista de registro en la página web desde el móvil (creación de cuenta):**
 
 ![Vista de Registro de usuario](./P2/VistaRegistro.png)
 
-**Vista del carrito (lo que hay en la cesta antes de realizar el pedido)**
+**Vista del carrito (lo que hay en la cesta antes de realizar el pedido):**
 
 ![Vista de la Cesta o Carrito](./P2/VistaCarrito.png)
 
