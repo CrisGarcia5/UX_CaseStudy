@@ -291,11 +291,15 @@ Término | Significado
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
 
+**Vista de página principal (HOME) desde el ordenador**
+
+
+
 **Vista de inicio de sesión desde el móvil**
 
 ![Vista Inicio de Sesión](./P2/VistaInicioSesion.png)
 
-**Vista de registro en la página web (creación de cuenta)**
+**Vista de registro en la página web desde el móvil (creación de cuenta)**
 
 ![Vista de Registro de usuario](./P2/VistaRegistro.png)
 
