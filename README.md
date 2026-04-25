@@ -328,12 +328,9 @@ Posteriormente, se han desarrollado los **wireframes Lo-Fi** mediante la herrami
 
 ![Vista de la Cesta o Carrito](./P2/VistaCarrito.png)
 
-
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 3.a Moodboard
