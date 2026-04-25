@@ -21,7 +21,7 @@ Descripción:
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo Savora](./P3/logoSavora.png)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Cristina García Gázquez     :octocat:
