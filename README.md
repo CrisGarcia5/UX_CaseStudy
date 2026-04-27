@@ -21,7 +21,7 @@ Descripción:
 
 Logotipo: 
 
-![Logo Savora](./P3/logoSavora.png)
+![Logo Savora](./P3/LogoSavora.png)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Cristina García Gázquez     :octocat:
