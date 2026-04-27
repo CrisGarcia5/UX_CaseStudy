@@ -17,7 +17,11 @@ Nombre del Proyecto: **Savora**
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+ Nuestro propósito consiste en mejorar la experiencia de elección y compra en una hamburgueseríá de forma online, facilitando así que los usuarios puedan comprender las opciones disponibles rápidamente y tomar decisiones con mayor seguridad.
+
+ La propuesta se centra en ofrecer una plataforma clara y estructurada, que permita explorar el menú de manera más intuitiva, comparar productos según sus características (como ingredientes, alérgenos, precio) y adaptarse a diferentes situaciones de uso, como pedidos individuales o decisiones en grupo. 
+
+ De este modo, se busca minimizar la incertidumbre durante el proceso de selección y ofrecer una experiencia que sea más fluida, personalizada y alineada con las necesidades de los usuarios.
 
 Logotipo: 
 
