@@ -341,6 +341,8 @@ Posteriormente, se han desarrollado los **wireframes Lo-Fi** mediante la herrami
 ![Método UX](img/moodboard.png)
 -----
 
+Para orientar el diseño virtual de la propuesta, se ha diseñado un moodboard con distintas referencias de estilo, colores, tipografía y demás aspectos. Dicho moodboard sirve como guía para mantener una identidad visual coherente.
+
 ![Moodboard](./P3/Moodboard.png)
 
 ### 3.b Landing Page
